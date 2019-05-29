@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "coupons": [
     { "id": 5, "title": "Post 1" },
     { "id": 6, "title": "Post 2" },
     { "id": 7, "title": "Post 3" }
